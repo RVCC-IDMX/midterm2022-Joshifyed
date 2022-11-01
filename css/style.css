@@ -1,0 +1,14 @@
+body {
+    background-color: #FF6BD8;
+    outline: #61E048 solid;
+    padding: 1rem;
+}
+h1 {
+    text-align: center;
+}
+header {
+    justify-content: left;
+}
+footer {
+    text-align: center;
+}
